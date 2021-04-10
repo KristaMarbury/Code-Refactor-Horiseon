@@ -8,7 +8,7 @@ In refactoring said website, many of the div elements were replaced with section
 
 Please enjoy this website! 
 
-file:///Users/SESSummerfield/homeworkhut/Code-Refactor-Horiseon/index.html
+https://kristamarbury.github.io/Code-Refactor-Horiseon/
 
 #### Some Glamour Shots of the website!
 
